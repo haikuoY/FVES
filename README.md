@@ -1,1 +1,7 @@
-# Functional-video-encryption-and-sharing
+# FVES
+## encryption
+kvazaar
+## key management
+charm-crypto
+## decryption
+openHEVC
